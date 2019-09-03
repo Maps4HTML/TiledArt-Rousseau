@@ -4,7 +4,7 @@
   "attribution": "Public Domain. Held by the Metropolitan Museum of Art, New York.",
   "scheme": "tms",
   "tiles": [
-    "./{z}/{x}/{-y}.png"
+    "https://earthmarks.github.io/TiledArt-Rousseau/TheBanksOfTheBièvreNearBicêtre/{z}/{x}/{-y}.png"
   ],
     "bounds": [0, -3710, 3110, 0],
     "minzoom": 0,
