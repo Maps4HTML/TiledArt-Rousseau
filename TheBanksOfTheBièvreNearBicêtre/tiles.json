@@ -1,0 +1,12 @@
+{
+  "tilejson": "2.2.0",
+  "name": "The Banks of the Bièvre near Bicêtre - Henri Rousseau, c. 1909",
+  "attribution": "Public Domain. Held by the Metropolitan Museum of Art, New York.",
+  "scheme": "tms",
+  "tiles": [
+    "./{z}/{x}/{-y}.png"
+  ],
+    "bounds": [0, -3710, 3110, 0],
+    "minzoom": 0,
+    "maxzoom": 4
+}
